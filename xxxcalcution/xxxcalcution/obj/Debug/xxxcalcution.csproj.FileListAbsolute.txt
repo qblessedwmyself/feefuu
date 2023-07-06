@@ -1,0 +1,9 @@
+C:\Users\DESKTOP\source\repos\fefu\xxxcalcution\xxxcalcution\bin\Debug\xxxcalcution.exe.config
+C:\Users\DESKTOP\source\repos\fefu\xxxcalcution\xxxcalcution\bin\Debug\xxxcalcution.exe
+C:\Users\DESKTOP\source\repos\fefu\xxxcalcution\xxxcalcution\bin\Debug\xxxcalcution.pdb
+C:\Users\DESKTOP\source\repos\fefu\xxxcalcution\xxxcalcution\obj\Debug\xxxcalcution.csprojAssemblyReference.cache
+C:\Users\DESKTOP\source\repos\fefu\xxxcalcution\xxxcalcution\obj\Debug\xxxcalcution.Form1.resources
+C:\Users\DESKTOP\source\repos\fefu\xxxcalcution\xxxcalcution\obj\Debug\xxxcalcution.Properties.Resources.resources
+C:\Users\DESKTOP\source\repos\fefu\xxxcalcution\xxxcalcution\obj\Debug\xxxcalcution.csproj.GenerateResource.cache
+C:\Users\DESKTOP\source\repos\fefu\xxxcalcution\xxxcalcution\obj\Debug\xxxcalcution.exe
+C:\Users\DESKTOP\source\repos\fefu\xxxcalcution\xxxcalcution\obj\Debug\xxxcalcution.pdb
